@@ -35,8 +35,8 @@ This project sets up a complete IoT monitoring stack using Docker Compose. It in
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/iot-monitoring-docker.git
-cd iot-monitoring-docker
+git clone https://github.com/rishikreddycheruku/iot_tig_stack_with_mqtt_using_docker.git
+cd iot_tig_stack_with_mqtt_using_docker
 ```
 
 ---
